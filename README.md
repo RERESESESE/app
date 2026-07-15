@@ -23,3 +23,12 @@ generate_data.py (공격 8유형 생성 + 난독화 + 하드네거티브 정상)
 
 ## LLM 없이 규칙 베이스라인만 측정
 python evaluate.py data/dataset.json --no-llm
+
+# App
+
+간단한 테스트 프로젝트입니다.
+
+## 설치
+pip install -r requirements.txt# App
+
+간단한 테스트 프로젝트입니다.
