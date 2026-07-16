@@ -4,3 +4,6 @@ streamlit>=1.38.0
 requests>=2.31.0
 import langchain
 import langsmith
+import langfuse
+import langgraph
+RAG
